@@ -1,0 +1,10 @@
+{
+	"name": "kivweb-2",
+	"version": "1.0.0",
+	"description": "EXAMPLE #2",
+	"main": "server.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mrtnzlml/kivweb-2.git"
+	}
+}
